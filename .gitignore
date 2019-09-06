@@ -52,3 +52,12 @@ private/
 !private/snippets/README.md
 !private/local/README.md
 /games/
+
+# Purcell
+.session
+.uptimes.el
+custom.el
+elpa*
+org-clock-save.el
+plantuml.jar
+transient/
