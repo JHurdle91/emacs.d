@@ -1,3 +1,7 @@
+# disclaimer
+
+if you're on mac or linux, use [**ihsec**](https://github.com/daedreth/ihsec). if you're on windows, this may be for you.
+
 # setup
 
 1. **install** emacs
