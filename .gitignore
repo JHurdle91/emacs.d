@@ -61,3 +61,6 @@ elpa*
 org-clock-save.el
 plantuml.jar
 transient/
+
+*.local/
+
